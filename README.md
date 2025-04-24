@@ -12,7 +12,6 @@ Features:
 * User-friendly interface
 
 Installation:
-* Download and extract the project folder.
 * Open the project in Android Studio.
 * Build and run on an Android 7.0+ device.
 
