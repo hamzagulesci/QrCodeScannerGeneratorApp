@@ -1,7 +1,7 @@
 Qr Code Scanner and Generator App, made with java (android studio)
 
 
-English Description
+English Description,
 Overview:
 This project is a simple QR Code scanner and generator designed for Android 7.0+ devices. Users can scan QR codes, generate new ones, and copy scanned text to the clipboard.
 
@@ -15,7 +15,9 @@ Installation:
 * Open the project in Android Studio.
 * Build and run on an Android 7.0+ device.
 
-Türkçe Açıklama
+---
+
+Türkçe Açıklama,
 Genel Bakış:
 Bu proje, Android 7.0 ve üzeri cihazlar için geliştirilmiş basit bir QR Kod tarayıcı ve oluşturucudur. Kullanıcılar QR kodlarını tarayabilir, yeni QR kodları oluşturabilir ve taranan metni panoya kopyalayabilir.
 
